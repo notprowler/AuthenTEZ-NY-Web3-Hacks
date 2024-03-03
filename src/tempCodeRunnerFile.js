@@ -1,0 +1,1 @@
+New ID ${newId} added to the contract. ${result}
